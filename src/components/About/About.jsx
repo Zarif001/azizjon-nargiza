@@ -178,7 +178,7 @@ export default function About() {
         />
         <p className="text-sm font-vibes text-center">
           {" "}
-          <span className="text-m mb-[1px] block ">
+          <span className="text-m mb-[1px] block mt-[5px]">
             <b>
               Dress Code: <br />
               Black Tie
