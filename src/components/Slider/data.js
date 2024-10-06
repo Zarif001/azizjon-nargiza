@@ -1,5 +1,4 @@
 import bg2 from '/images/2.png'
-import bg3 from '/images/3.png'
 
 
 export const DATES = [
@@ -9,6 +8,6 @@ export const DATES = [
     },
     {
         id: 2,
-        img: bg3
+        img: bg2
     }
 ]
