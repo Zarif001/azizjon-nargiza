@@ -153,7 +153,7 @@ export default function About() {
       <div className="w-full">
       <img
           className="w-full h-[350px] object-cover"
-          src="/images/16.png"
+          src="/images/14.png"
           alt="picture-1"
         />  
       </div>
