@@ -1,4 +1,4 @@
-import bg2 from '/images/2.png'
+import bg2 from '/images/9.png'
 
 
 export const DATES = [
